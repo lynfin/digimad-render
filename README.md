@@ -2,7 +2,7 @@
 
 Digimad : the home for Digital Nomads
 Capstone Project for Flatiron School: React/Rails API - Full Stack Application
-Check out the live frontend [_here_](https://digimad.herokuapp.com/)
+Check out the live frontend [_here_](https://digimad.onrender.com)
 
 ## Table of Contents
 
